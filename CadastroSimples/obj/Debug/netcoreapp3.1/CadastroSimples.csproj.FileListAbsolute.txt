@@ -1,0 +1,13 @@
+C:\Users\Rodrigo\Desktop\Rodrigo\cadastro-simples-csharp\CadastroSimples\CadastroSimples\bin\Debug\netcoreapp3.1\CadastroSimples.exe
+C:\Users\Rodrigo\Desktop\Rodrigo\cadastro-simples-csharp\CadastroSimples\CadastroSimples\bin\Debug\netcoreapp3.1\CadastroSimples.deps.json
+C:\Users\Rodrigo\Desktop\Rodrigo\cadastro-simples-csharp\CadastroSimples\CadastroSimples\bin\Debug\netcoreapp3.1\CadastroSimples.runtimeconfig.json
+C:\Users\Rodrigo\Desktop\Rodrigo\cadastro-simples-csharp\CadastroSimples\CadastroSimples\bin\Debug\netcoreapp3.1\CadastroSimples.runtimeconfig.dev.json
+C:\Users\Rodrigo\Desktop\Rodrigo\cadastro-simples-csharp\CadastroSimples\CadastroSimples\bin\Debug\netcoreapp3.1\CadastroSimples.dll
+C:\Users\Rodrigo\Desktop\Rodrigo\cadastro-simples-csharp\CadastroSimples\CadastroSimples\bin\Debug\netcoreapp3.1\CadastroSimples.pdb
+C:\Users\Rodrigo\Desktop\Rodrigo\cadastro-simples-csharp\CadastroSimples\CadastroSimples\obj\Debug\netcoreapp3.1\CadastroSimples.csprojAssemblyReference.cache
+C:\Users\Rodrigo\Desktop\Rodrigo\cadastro-simples-csharp\CadastroSimples\CadastroSimples\obj\Debug\netcoreapp3.1\CadastroSimples.AssemblyInfoInputs.cache
+C:\Users\Rodrigo\Desktop\Rodrigo\cadastro-simples-csharp\CadastroSimples\CadastroSimples\obj\Debug\netcoreapp3.1\CadastroSimples.AssemblyInfo.cs
+C:\Users\Rodrigo\Desktop\Rodrigo\cadastro-simples-csharp\CadastroSimples\CadastroSimples\obj\Debug\netcoreapp3.1\CadastroSimples.csproj.CoreCompileInputs.cache
+C:\Users\Rodrigo\Desktop\Rodrigo\cadastro-simples-csharp\CadastroSimples\CadastroSimples\obj\Debug\netcoreapp3.1\CadastroSimples.dll
+C:\Users\Rodrigo\Desktop\Rodrigo\cadastro-simples-csharp\CadastroSimples\CadastroSimples\obj\Debug\netcoreapp3.1\CadastroSimples.pdb
+C:\Users\Rodrigo\Desktop\Rodrigo\cadastro-simples-csharp\CadastroSimples\CadastroSimples\obj\Debug\netcoreapp3.1\CadastroSimples.genruntimeconfig.cache
