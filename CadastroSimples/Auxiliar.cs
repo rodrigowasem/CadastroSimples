@@ -7,6 +7,9 @@ namespace CadastroSimples
 {
     class Auxiliar
     {
+
+        // Classe auxiliar para fins de validações e fromataçaões de telefone e cpf
+
         public static bool ValidaTelefone(string telefone)
         {
             char digito = '9';

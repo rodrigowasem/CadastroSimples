@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Rodrigo\\Desktop\\Rodrigo\\cadastro-simples-csharp\\CadastroSimples\\CadastroSimples\\CadastroSimples.csproj",
+      "projectUniqueName": "C:\\Users\\Rodrigo\\Desktop\\Rodrigo\\CadastroSimples\\CadastroSimples\\CadastroSimples.csproj",
       "projectName": "CadastroSimples",
-      "projectPath": "C:\\Users\\Rodrigo\\Desktop\\Rodrigo\\cadastro-simples-csharp\\CadastroSimples\\CadastroSimples\\CadastroSimples.csproj",
+      "projectPath": "C:\\Users\\Rodrigo\\Desktop\\Rodrigo\\CadastroSimples\\CadastroSimples\\CadastroSimples.csproj",
       "packagesPath": "C:\\Users\\Rodrigo\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Rodrigo\\Desktop\\Rodrigo\\cadastro-simples-csharp\\CadastroSimples\\CadastroSimples\\obj\\",
+      "outputPath": "C:\\Users\\Rodrigo\\Desktop\\Rodrigo\\CadastroSimples\\CadastroSimples\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\"

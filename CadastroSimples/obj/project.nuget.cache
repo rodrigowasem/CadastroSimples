@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "peKQZPEBUF1i367DGqs1leOycSgCwi3zZUipR+pfRFW6pSSPalXYsp+77RaRXUNLkswr150RQxsyxP0mjYPBRg==",
+  "dgSpecHash": "Z3rLZuVr13Xp1p9ECH5GsRJVCnXkpLkQjZ/TB12OJaA+09lCf0pX0ldw4NUw6+nC3j1TnGawV/FZNEr9ynuwqQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Rodrigo\\Desktop\\Rodrigo\\cadastro-simples-csharp\\CadastroSimples\\CadastroSimples\\CadastroSimples.csproj",
+  "projectFilePath": "C:\\Users\\Rodrigo\\Desktop\\Rodrigo\\CadastroSimples\\CadastroSimples\\CadastroSimples.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

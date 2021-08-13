@@ -37,8 +37,9 @@ namespace CadastroSimples
 
                         break;
                     case 2:
-                        Console.Write("\nInforme o id do cliente: ");
+                        Console.Write("\nInforme o id da pessoa: ");
                         Pessoa pessoaEdit = pessoas.FirstOrDefault(x => x.Id == int.Parse(Console.ReadLine()));
+                        // Exibe os dados da pessoa antes da edição, para que o usuário que esteja alterando os dados saiba o valor atual dos atributos
                         Pessoa.PrintPessoa(pessoaEdit);
                         Pessoa.EditarPessoa(pessoaEdit);
                         Pessoa.PrintPessoa(pessoaEdit);
@@ -50,7 +51,7 @@ namespace CadastroSimples
                         Pessoa.ExibePessoas(pessoas, false);
                         break;
                     case 5:
-                        Console.Write("\nInforme o id do cliente: ");
+                        Console.Write("\nInforme o id da pessoa: ");
                         int idRemover = int.Parse(Console.ReadLine());
                         var itemParaRemover = pessoas.SingleOrDefault(r => r.Id == idRemover);
                         if (itemParaRemover != null)
