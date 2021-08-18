@@ -1,0 +1,16 @@
+C:\Users\Rodrigo\Desktop\Rodrigo\CadastroSimples\CadastroSimples\bin\Debug\net5.0\CadastroSimples.exe
+C:\Users\Rodrigo\Desktop\Rodrigo\CadastroSimples\CadastroSimples\bin\Debug\net5.0\CadastroSimples.deps.json
+C:\Users\Rodrigo\Desktop\Rodrigo\CadastroSimples\CadastroSimples\bin\Debug\net5.0\CadastroSimples.runtimeconfig.json
+C:\Users\Rodrigo\Desktop\Rodrigo\CadastroSimples\CadastroSimples\bin\Debug\net5.0\CadastroSimples.runtimeconfig.dev.json
+C:\Users\Rodrigo\Desktop\Rodrigo\CadastroSimples\CadastroSimples\bin\Debug\net5.0\CadastroSimples.dll
+C:\Users\Rodrigo\Desktop\Rodrigo\CadastroSimples\CadastroSimples\bin\Debug\net5.0\ref\CadastroSimples.dll
+C:\Users\Rodrigo\Desktop\Rodrigo\CadastroSimples\CadastroSimples\bin\Debug\net5.0\CadastroSimples.pdb
+C:\Users\Rodrigo\Desktop\Rodrigo\CadastroSimples\CadastroSimples\obj\Debug\net5.0\CadastroSimples.csprojAssemblyReference.cache
+C:\Users\Rodrigo\Desktop\Rodrigo\CadastroSimples\CadastroSimples\obj\Debug\net5.0\CadastroSimples.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rodrigo\Desktop\Rodrigo\CadastroSimples\CadastroSimples\obj\Debug\net5.0\CadastroSimples.AssemblyInfoInputs.cache
+C:\Users\Rodrigo\Desktop\Rodrigo\CadastroSimples\CadastroSimples\obj\Debug\net5.0\CadastroSimples.AssemblyInfo.cs
+C:\Users\Rodrigo\Desktop\Rodrigo\CadastroSimples\CadastroSimples\obj\Debug\net5.0\CadastroSimples.csproj.CoreCompileInputs.cache
+C:\Users\Rodrigo\Desktop\Rodrigo\CadastroSimples\CadastroSimples\obj\Debug\net5.0\CadastroSimples.dll
+C:\Users\Rodrigo\Desktop\Rodrigo\CadastroSimples\CadastroSimples\obj\Debug\net5.0\ref\CadastroSimples.dll
+C:\Users\Rodrigo\Desktop\Rodrigo\CadastroSimples\CadastroSimples\obj\Debug\net5.0\CadastroSimples.pdb
+C:\Users\Rodrigo\Desktop\Rodrigo\CadastroSimples\CadastroSimples\obj\Debug\net5.0\CadastroSimples.genruntimeconfig.cache
